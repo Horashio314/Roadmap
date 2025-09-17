@@ -1,0 +1,14 @@
+C:\Users\Watson\source\repos\Roadmap\Reto 3\bin\Debug\net8.0\Reto 3.exe
+C:\Users\Watson\source\repos\Roadmap\Reto 3\bin\Debug\net8.0\Reto 3.deps.json
+C:\Users\Watson\source\repos\Roadmap\Reto 3\bin\Debug\net8.0\Reto 3.runtimeconfig.json
+C:\Users\Watson\source\repos\Roadmap\Reto 3\bin\Debug\net8.0\Reto 3.dll
+C:\Users\Watson\source\repos\Roadmap\Reto 3\bin\Debug\net8.0\Reto 3.pdb
+C:\Users\Watson\source\repos\Roadmap\Reto 3\obj\Debug\net8.0\Reto 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Watson\source\repos\Roadmap\Reto 3\obj\Debug\net8.0\Reto 3.AssemblyInfoInputs.cache
+C:\Users\Watson\source\repos\Roadmap\Reto 3\obj\Debug\net8.0\Reto 3.AssemblyInfo.cs
+C:\Users\Watson\source\repos\Roadmap\Reto 3\obj\Debug\net8.0\Reto 3.csproj.CoreCompileInputs.cache
+C:\Users\Watson\source\repos\Roadmap\Reto 3\obj\Debug\net8.0\Reto 3.dll
+C:\Users\Watson\source\repos\Roadmap\Reto 3\obj\Debug\net8.0\refint\Reto 3.dll
+C:\Users\Watson\source\repos\Roadmap\Reto 3\obj\Debug\net8.0\Reto 3.pdb
+C:\Users\Watson\source\repos\Roadmap\Reto 3\obj\Debug\net8.0\Reto 3.genruntimeconfig.cache
+C:\Users\Watson\source\repos\Roadmap\Reto 3\obj\Debug\net8.0\ref\Reto 3.dll
