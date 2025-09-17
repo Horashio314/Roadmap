@@ -1,0 +1,14 @@
+C:\Users\Watson\source\repos\Roadmap\Retos\bin\Debug\net8.0\Retos.exe
+C:\Users\Watson\source\repos\Roadmap\Retos\bin\Debug\net8.0\Retos.deps.json
+C:\Users\Watson\source\repos\Roadmap\Retos\bin\Debug\net8.0\Retos.runtimeconfig.json
+C:\Users\Watson\source\repos\Roadmap\Retos\bin\Debug\net8.0\Retos.dll
+C:\Users\Watson\source\repos\Roadmap\Retos\bin\Debug\net8.0\Retos.pdb
+C:\Users\Watson\source\repos\Roadmap\Retos\obj\Debug\net8.0\Retos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Watson\source\repos\Roadmap\Retos\obj\Debug\net8.0\Retos.AssemblyInfoInputs.cache
+C:\Users\Watson\source\repos\Roadmap\Retos\obj\Debug\net8.0\Retos.AssemblyInfo.cs
+C:\Users\Watson\source\repos\Roadmap\Retos\obj\Debug\net8.0\Retos.csproj.CoreCompileInputs.cache
+C:\Users\Watson\source\repos\Roadmap\Retos\obj\Debug\net8.0\Retos.dll
+C:\Users\Watson\source\repos\Roadmap\Retos\obj\Debug\net8.0\refint\Retos.dll
+C:\Users\Watson\source\repos\Roadmap\Retos\obj\Debug\net8.0\Retos.pdb
+C:\Users\Watson\source\repos\Roadmap\Retos\obj\Debug\net8.0\Retos.genruntimeconfig.cache
+C:\Users\Watson\source\repos\Roadmap\Retos\obj\Debug\net8.0\ref\Retos.dll
